@@ -1,4 +1,5 @@
-# EECS435_project2
+# Clustering of twitter text
+
 
 Dataset: smaller dataset cnnhealth.txt.zip  download The format of this file is different from the original one. It has 3 columns, separated by "|". You only need to use the last column. 
 
