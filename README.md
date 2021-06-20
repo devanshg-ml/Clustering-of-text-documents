@@ -1,1 +1,1 @@
-# Clustering-of-text-documents
+# EECS435_project2
